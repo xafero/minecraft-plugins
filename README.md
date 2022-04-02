@@ -2,7 +2,9 @@
 My collection of smaller Minecraft plugins
 
 ## Build 
+```
 mvn package
+```
 
 ## HowTo
 * Install requirements
