@@ -5,6 +5,18 @@ api-version: 1.18
 description: Animals are the best friends!
 author: xafero
 commands:
+  mobcalm:
+    description: Calm down monsters
+    usage: /<command> [radius]
   petfind:
     description: Find pets nearby
     usage: /<command> [radius]
+  petheal:
+    description: Heal pets nearby
+    usage: /<command> [radius]
+  petlove:
+    description: Breed pets nearby
+    usage: /<command> [radius]
+  petname:
+    description: Tame next pet
+    usage: /<command> [name]

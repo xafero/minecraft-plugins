@@ -1,4 +1,4 @@
-package org.xafero.mc.weirdpet;
+package org.xafero.mc.weirdpet.util;
 
 import org.bukkit.Location;
 
